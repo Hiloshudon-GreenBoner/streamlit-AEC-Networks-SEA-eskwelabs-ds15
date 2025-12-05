@@ -190,7 +190,7 @@ websockets==15.0.1
 widgetsnbextension==4.0.14
 wordcloud==1.9.4
 wrapt==1.17.3
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1749421620841/work
 zope.interface==8.0
 zstandard==0.25.0
+
 
